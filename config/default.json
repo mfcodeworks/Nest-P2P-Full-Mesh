@@ -1,24 +1,3 @@
 {
-    "redis": {
-        "host": "127.0.0.1",
-        "port": 6379,
-        "db": 0,
-        "password": "",
-        "keyPrefix": ""
-    },
-    "port": 8000,
-    "discord_token": "",
-    "wallet": {
-        "app": "",
-        "endpoint": "",
-        "api": "",
-        "client": 0,
-        "secret": "",
-        "redirect_uri": "",
-        "scope": ""
-    },
-    "fx": {
-        "url": "",
-        "client_id": ""
-    }
+    "port": 8000
 }
